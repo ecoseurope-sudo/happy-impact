@@ -1,0 +1,14 @@
+{
+  "name": "HAPPY IMPACT",
+  "short_name": "Happy Impact",
+  "description": "Sport & Social Impact Monitoring",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EEF2F0",
+  "theme_color": "#0D4A42",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
